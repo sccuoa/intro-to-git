@@ -378,9 +378,9 @@ Each commit should:
 
 ## Obtain a PDF of these slides
 
-Go to the repo on GitHub: https://github.com/sccuoa/intro-to-git
+Go to our repo on GitHub: https://github.com/sccuoa/intro-to-git
 
-
+![](figure/pdf_slides.png)
 
 ## Summary
 
