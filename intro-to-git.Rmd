@@ -160,11 +160,7 @@ git config --global user.email 'your@email.com'
 
 ![](figure/sign_up_github.png)
 
-## Student Developer Pack
-
-- Unlimited private repositories (Developer plan) for students.
-
-![](figure/student_devel_pack.png)
+## {data-background-image="figure/github_education.png" data-background-size="56%" data-background-position="top"}
 
 # Secure Shell (SSH) key (optional)
 
@@ -379,6 +375,12 @@ Each commit should:
 - Pull request on GitHub
 - Continouous integration services
 - GitHub pages for a website for your repo
+
+## Obtain a PDF of these slides
+
+Go to the repo on GitHub: https://github.com/sccuoa/intro-to-git
+
+
 
 ## Summary
 
